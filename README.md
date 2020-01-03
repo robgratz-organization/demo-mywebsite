@@ -1,4 +1,4 @@
 # demo-mywebsite
 
 * This is a really awesome website
-* Added line in example branch
+* Updates made on master on GitHub
