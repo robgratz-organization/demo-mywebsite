@@ -7,3 +7,5 @@
 Demonstrate pull conflicts
 
 These are changes on the local side
+
+Added line for floating tags demo
